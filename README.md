@@ -1,5 +1,5 @@
 # Toddler Town 
-![License: Dipti](https://img.shields.io/badge/Coder-Dipti'sCode-yellow.svg)
+
 ![License: GPL v3](https://img.shields.io/badge/License-MIT-pink.svg)
 ![Project:no](https://img.shields.io/badge/db-Sequelize-red.svg)
 ![Project:no](https://img.shields.io/badge/app-FullStack-green.svg)
